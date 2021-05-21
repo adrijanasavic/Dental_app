@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Stomatoloska_ordinacija</string>
+    <string name="stomatoloska_ordinacija">Stomatološka ordinacija</string>
+
+    <string name="splashtime_key">splashtime_settings</string>
+    <string name="splash_key">Spesh key</string>
+
+    <string name="toast_key">toast_setings</string>
+    <string name="notif_key">notif_setings</string>
+
+    <string name="pref_toast_key">Show toast</string>
+    <string name="pref_notification_key">Notifications</string>
+    <string name="adrijana_savic">Adrijana Savić</string>
+    <string name="stomatoloska">Stomatološka ordinacija</string>
+
+    <string-array name="klinika">
+        <item>Klinika 1</item>
+        <item>Klinika 2</item>
+        <item>Klinika 3</item>
+        <item>Klinika 4</item>
+        <item>Klinika 5</item>
+        <item>Klinika 6</item>
+    </string-array>
+    <string-array name="usluga">
+        <item>Kontrolni pregled</item>
+        <item>Popravka zuba</item>
+        <item>Izbeljivanje</item>
+        <item>Protetika</item>
+        <item>Implanti</item>
+
+    </string-array>
+    <string-array name="spec1">
+        <item>Bilo koji</item>
+        <item>Dr. Marko Marković</item>
+        <item>Dr. Ana Antić</item>
+        <item>Dr. Lazar Lazić</item>
+        <item>Dr.Veljko Vesić</item>
+        <item>Dr. Danijel Davidović</item>
+        <item>Dr. Igor Ilić</item>
+    </string-array>
+    <string-array name="spec2">
+        <item>Dr. Ana Antić</item>
+        <item>Dr. Lazar Lazić</item>
+    </string-array>
+    <string-array name="spec3">
+        <item>Any</item>
+        <item>Dr.Veljko Vesić</item>
+        <item>Dr. Danijel Davidović</item>
+    </string-array>
+    <string-array name="spec4">
+        <item>Any</item>
+        <item>Dr. Danijel Davidović</item>
+        <item>Dr. Igor Ilić</item>
+    </string-array>
+    <string-array name="spec5">
+        <item>Any</item>
+        <item>Dr. Miloš Milić</item>
+        <item>Dr. Zorana Zarić</item>
+    </string-array>
+    <string-array name="spec6">
+        <item>Any</item>
+        <item>Dr. Dušan Dakić</item>
+        <item>Dr. Marija Milić</item>
+    </string-array>
+
+</resources>
+
